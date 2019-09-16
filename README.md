@@ -1,2 +1,2 @@
 # Simple-login-form
-Here Html,Css,Js are used to create a simple front-end login form.
+Here Html,Css,Js is used to build a simple front-end login form.
