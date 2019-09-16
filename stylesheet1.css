@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    background-color: whitesmoke;
+    line-height: 1.3em;
+    margin: 0;
+    background-image: url(zz.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 36.5%;
+    margin: auto;
+}
+.btn{
+    background-color:darkred;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    border: none;
+    padding: 20px 20px;
+    width: 330px;
+}
+.btn:hover{
+    opacity: 0.8;
+}
+
+.form {
+    background-color: black;
+    color: brown;
+    font-size: 18px;
+    line-height: 1.3em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    border: 5px solid darkred;
+    padding: 20px;
+    margin-top: 400px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
